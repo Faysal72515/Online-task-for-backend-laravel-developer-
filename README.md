@@ -1,13 +1,15 @@
 # Online-task-for-backend-laravel-developer
 ### Project Info:
+ - Project Name: simpleTask
  - PHP Version: 7.4.30
  - Laravel Version: 8.0
  - Database: MySQL
  - API Testing Tool: Postman
+ - Time Duration: 5 Days
 #### Completed Task: 
  1. For check user authentication (registration/login/logout) JWT has been used.
  2. After login it automaitically generate a brearer token & using this bearer token authentication i generated the exact same rest API output thats are mentioned in my task with json format but using a different API route using eloquent query builder from relational MySQL table.
- ##### Established Relationships are:
+##### Established Relationships are:
  - One to one
  - One to many
  - Many to many
