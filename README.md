@@ -16,4 +16,4 @@
  
  >[Click here](https://documenter.getpostman.com/view/22934276/2s84DmxjF9) to see the Postman API documention.   
  
- - [ ] Zipped file should be preferable for run this application
+ - [ ] *Zipped file should be preferable for run this application.*
