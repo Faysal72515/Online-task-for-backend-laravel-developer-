@@ -3,8 +3,9 @@
  - Project Name: primaryTask
  - PHP Version: 7.4.30
  - Laravel Version: 8.0
- - Database: MySQL
+ - Database Server: MySQL
  - API Testing Tool: Postman
+ - Project Database: primarytask.sql
  - Time Duration: 5 Days
 #### Completed Task: 
  1. For check user authentication (registration/login/logout) JWT has been used.
