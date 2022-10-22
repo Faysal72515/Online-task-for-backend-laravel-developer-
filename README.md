@@ -15,3 +15,5 @@
  - Many to many
  
  >[Click here](https://documenter.getpostman.com/view/22934276/2s84DmxjF9) to see the Postman API documention.   
+ 
+ - [x] Zipped file should be preferable for run this application
