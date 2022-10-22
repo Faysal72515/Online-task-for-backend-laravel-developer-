@@ -1,6 +1,6 @@
 # Online-task-for-backend-laravel-developer
 ### Project Info:
- - Project Name: simpleTask
+ - Project Name: primaryTask
  - PHP Version: 7.4.30
  - Laravel Version: 8.0
  - Database: MySQL
